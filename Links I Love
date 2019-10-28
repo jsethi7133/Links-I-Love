@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Challenge: Links you love"</title>
+    </head>
+    <body>
+        
+        <h1>Links I love</h1>
+        
+        <ul>
+            <li><a target="_black" href="https://github.com/jsethi7133">Github Profile</a></li>
+            <li><a target="_black"  href="https://www.khanacademy.org/profile/jsethi7133/">Khanacademy Profile</a></li>
+            <li><a target="_black"  href="https://www.youthkiawaaz.com/author/jayant_sethi/">Blog</a></li>
+            <li><a target="_black"  href="https://www.linkedin.com/in/jsethi7133/">LinkedIn Profile</a></li>
+        </ul>
+        <a target="_blank" href="http://www.wmtc.org.in">
+        <img src="https://www.kasandbox.org/programming-images/cute/Heart.png">
+        </a>
+    </body>
+</html>
